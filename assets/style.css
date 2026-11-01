@@ -134,3 +134,7 @@ body,.site-shell{background:#f5f4ef}
 .contact-accounts span{white-space:nowrap}
 .contact-row>span:last-child{overflow-wrap:anywhere;min-width:0}
 @media(max-width:700px){.reference-profile{padding:30px 23px;gap:24px}.reference-bio h1{font-size:29px}.reference-bio p,.reference-bio p:first-of-type{font-size:13px}.reference-avatar{width:80px;height:80px;flex-basis:80px}.reference-cards{gap:8px}.reference-cards article{min-height:0;padding:34px 0 18px}.about-community{padding:3px 0 18px}.about-contact{padding:19px 17px}.contact-row{gap:12px;font-size:13px}.contact-accounts{column-gap:20px}.about-community h2{font-size:22px}}
+
+/* Watch & Listen */
+.media-video{display:block;width:100%;height:auto;aspect-ratio:30/17;background:#0b1220;margin:24px 0 12px;border-radius:2px}
+.entry .media-download{display:inline-block;font-size:12px;margin-top:4px}

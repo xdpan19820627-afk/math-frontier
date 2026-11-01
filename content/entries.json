@@ -48,5 +48,18 @@
         "pages": 2
       }
     ]
+  },
+  {
+    "id": "geometry-dot-cross-products",
+    "kind": "podcast",
+    "media_type": "video",
+    "title": "The Geometry of Dot and Cross Products",
+    "summary": "Two ways to multiply vectors, each with a distinct geometric meaning. This short animation connects the dot product to projection and the cross product to oriented area, with an application to torque.",
+    "content": "Two ways to multiply vectors, each with a distinct geometric meaning. This short animation connects the dot product to projection and the cross product to oriented area, with an application to torque.",
+    "topic": "Vector geometry · Film · 2 min 10 sec",
+    "date": "2026-11-01",
+    "status": "published",
+    "attachment": "files/videos/geometry-dot-cross-products.mp4",
+    "poster": "files/videos/geometry-dot-cross-products.jpg"
   }
 ]
